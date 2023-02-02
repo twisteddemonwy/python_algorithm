@@ -9,7 +9,7 @@
 """
 
 
-for i in range(33, 100):
+for i in range(34, 100):
     for x in range(1, 10):
         for y in range(0, 10):
             if x == y:
