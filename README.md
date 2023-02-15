@@ -12,6 +12,8 @@
 - Q6: [谁在说谎](questions/q6.py)
 - Q7: [字符串测试](questions/q7.py)
 - Q8: [爱因斯坦数学题](questions/q8.py)
+- Q9: [凯撒加密奥义](questions/q9.py)
+- Q10: [摩尔投票法](questions/q10.py)
 
 ## 致谢
 - [鱼C工作室](https://fishc.com.cn/)
