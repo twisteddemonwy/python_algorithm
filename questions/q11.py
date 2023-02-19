@@ -26,12 +26,14 @@ def run(_list: list):
     if _list.count(ele1) >= len(_list)/3 and _list.count(ele2) >= len(_list)/3:
         print(f"数量最多的两个元素分别为{ele1}和{ele2}")
 
+
 if __name__ == "__main__":
     _list = input("请输入元素, 各个元素之间以','分割: ").split(',')
     run(_list)
 
 
 """
+思路解析:
 0. 我们可以在同一轮循环中筛选出两个占比最多的元素
 1. 首先我们可以先将最多的两个元素(ele1和ele2)都暂定为列表中第一个元素, 并将count计数(count1和count2)都设置为0, 然后再开始对列表循环
 2. 对抗阶段:

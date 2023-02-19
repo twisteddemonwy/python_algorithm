@@ -15,6 +15,7 @@
 - Q9: [凯撒加密奥义](questions/q9.py)
 - Q10: [摩尔投票法](questions/q10.py)
 - Q11: [摩尔投票法进阶](questions/q11.py)
+- Q12: [回文数](questions/q12.py)
 
 ## 致谢
 - [鱼C工作室](https://fishc.com.cn/)
