@@ -17,6 +17,7 @@
 - Q11: [摩尔投票法进阶](questions/q11.py)
 - Q12: [回文数](questions/q12.py)
 - Q13: [黑洞数](questions/q13.py)
+- Q14: [自守数](questions/q14.py)
 
 ## 致谢
 - [鱼C工作室](https://fishc.com.cn/)
