@@ -1,7 +1,8 @@
 # python_algorithm
 
 ## 简介
-通过python实现算法的一些练习题目，每个py文件为单独的一个题目，具体的题目信息，结题及优化思路请在对应题目文件中查看
+通过python实现算法的一些练习题目
+每个py文件为单独的一个题目，具体的题目信息，解题思路请在对应题目文件中查看
 
 ## 目录
 - Q1: [百钱百鸡](questions/q1.py)
@@ -18,6 +19,7 @@
 - Q12: [回文数](questions/q12.py)
 - Q13: [黑洞数](questions/q13.py)
 - Q14: [自守数](questions/q14.py)
+- Q15: [素数](questions/q15.py)
 
 ## 致谢
 - [鱼C工作室](https://fishc.com.cn/)
