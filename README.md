@@ -20,6 +20,7 @@
 - Q13: [黑洞数](questions/q13.py)
 - Q14: [自守数](questions/q14.py)
 - Q15: [素数](questions/q15.py)
+- Q16: [回文素数](questions/q16.py)
 
 ## 致谢
 - [鱼C工作室](https://fishc.com.cn/)
