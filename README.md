@@ -25,6 +25,7 @@
 - Q17: [梅森素数](questions/q17.py)
 - Q18: [哥德巴赫猜想](questions/q18.py)
 - Q19: [递归-汉诺塔](questions/q19.py)
+- Q20: [吃了多少薯片](questions/q20.py)
 
 ## 致谢
 - [鱼C工作室](https://fishc.com.cn/)
